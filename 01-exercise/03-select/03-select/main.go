@@ -24,7 +24,6 @@ func main() {
 		default:
 			fmt.Println("no message recieve")
 		}
-
 		// Do some processing..
 		fmt.Println("processing..")
 		time.Sleep(1500 * time.Millisecond)
